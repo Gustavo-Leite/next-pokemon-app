@@ -1,20 +1,34 @@
-# Pokemon
+# Pokémon App
 
-## Installation
+### The Pokémon App is a simple web application that allows users to search and view information about different Pokémon.
 
+## How to use
+
+#### Clone this repository to your local environment.
 ```bash
-$ npm install
+git clone https://github.com/Gustavo-Leite/next-pokemon-app.git
+```
+#### Navigate to the app directory
+```bash
+cd next-pokemon-app
 ```
 
-## Getting Started
-
-First, run the development server:
+#### Install dependencies.
 
 ```bash
+npm install
+```
+
+#### Start the development server.
+```bash
 npm run dev
-# or
+```
+##### or
+```bash
 yarn dev
-# or
+```
+##### or
+```bash
 pnpm dev
 ```
 
